@@ -84,7 +84,7 @@ We’d love your contributions! To get involved:
 
 ## Contact 📧
 
-Have questions or feedback? Feel free to reach out to [me](mailto:bl.en.u4aie22005@bl.students.amrita.edu).
+Have questions or feedback? Feel free to reach out to [me](mailto:bl.en.u4aie22062@bl.students.amrita.edu).
 
 ---
 
