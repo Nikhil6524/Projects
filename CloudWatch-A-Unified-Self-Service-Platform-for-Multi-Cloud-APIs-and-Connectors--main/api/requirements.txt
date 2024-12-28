@@ -1,0 +1,5 @@
+flask==2.0.1
+flask-cors==3.0.10
+boto3==1.26.137
+Pillow==9.5.0
+werkzeug==2.0.3 
