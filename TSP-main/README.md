@@ -160,5 +160,5 @@ Special thanks to the open-source community and academic research on optimizatio
 ## 📞 Contact
 
 For any inquiries, feel free to contact:
-- **Author**: [Your Name](https://github.com/Nikhil6524)
+- **Author**: [V R N S Nikhil](https://github.com/Nikhil6524)
 - **Email**: bl.en.u4aie22062@bl.students.amrita.edu
