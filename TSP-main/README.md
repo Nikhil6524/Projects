@@ -125,21 +125,6 @@ The project evaluates each algorithm based on:
 10. **Neural Networks**:
     - Utilizes machine learning to approximate solutions for TSP.
 
----
-
-## 📈 Results Visualization
-
-The project includes visualizations for:
-- **Shortest Path**:
-  Displays the optimized routes for each algorithm.
-- **Convergence Graphs**:
-  Compares the convergence behavior of all algorithms.
-
-Example Outputs:
-- Shortest Path Visualization:
-  ![Shortest Path Example](results/shortest_path.png)
-- Convergence Graphs:
-  ![Convergence Graph Example](results/convergence_graph.png)
 
 ---
 
@@ -175,5 +160,5 @@ Special thanks to the open-source community and academic research on optimizatio
 ## 📞 Contact
 
 For any inquiries, feel free to contact:
-- **Author**: [Your Name](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **Author**: [Your Name](https://github.com/Nikhil6524)
+- **Email**: bl.en.u4aie22062@bl.students.amrita.edu
